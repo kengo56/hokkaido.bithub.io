@@ -1,1 +1,1 @@
-# hokkaido.bithub.io
+# hokkaido.github.io
